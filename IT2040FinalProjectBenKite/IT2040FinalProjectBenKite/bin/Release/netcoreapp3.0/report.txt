@@ -1,0 +1,13 @@
+Music Stats Report
+
+Number of songs that received 200 or more plays: 3
+Number of songs under Alternative: 39
+Number of songs under Hip-Hop/Rap: 382
+Songs from the album 'Welcome to the Fishbowl':
+Come Over,Feel like a Rock Star (with Tim McGraw),Welcome to the Fishbowl,
+Songs from before 1970: 
+"Hello, I Love You",
+Song names that are more than 85 characters long:
+"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
+The longest song (time):
+"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",

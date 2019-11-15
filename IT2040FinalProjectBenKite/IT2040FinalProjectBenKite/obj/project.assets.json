@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "/Users/benkite/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite.csproj",
+      "projectName": "IT2040FinalProjectBenKite",
+      "projectPath": "/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite.csproj",
+      "packagesPath": "/Users/benkite/.nuget/packages/",
+      "outputPath": "/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/benkite/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/bin/Debug/netcoreapp3.0/IT2040FinalProjectBenKite
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/bin/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.deps.json
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/bin/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.runtimeconfig.json
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/bin/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.runtimeconfig.dev.json
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/bin/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.dll
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/bin/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.pdb
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/obj/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.csprojAssemblyReference.cache
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/obj/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.AssemblyInfoInputs.cache
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/obj/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.AssemblyInfo.cs
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/obj/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.dll
+/Users/benkite/Desktop/Desktop/School/SophmoreYear/IT2040/IT2040FinalProjectBenKite/IT2040FinalProjectBenKite/obj/Debug/netcoreapp3.0/IT2040FinalProjectBenKite.pdb
